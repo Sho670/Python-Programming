@@ -28,7 +28,6 @@ for sentence in ifile:
   wordF = {}
   wordList = filecont.split()
 
-
 #Calculating the Frequency of the particular words
 
 for word in wordList:
