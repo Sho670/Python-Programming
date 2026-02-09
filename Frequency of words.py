@@ -1,4 +1,6 @@
+
 # This program display's the frequency of the words in a file.
+
 # As of now you can print the 10 most frequent words from it.
 
 import sys/*-q
