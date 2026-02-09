@@ -17,3 +17,5 @@ b=int(input("Enter value of b, which should not be negative :"))
 aCb=fact(a)/(fact(b)*fact(a-b))
 
 print(a,'C',r,"=","d"%aCb,sep="")
+
+print("Note: The number which is to be given should not be a negative number.")
