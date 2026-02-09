@@ -39,8 +39,9 @@ for word in wordList:
 
 sortWord = sorted(wordF.items(),key = lambda x:x[1], reverse= True)
 
+# The final step
 # Now we have to display the most frequent words
-#Final step
+
 
 print("Most Frequent words are:")
 for i in range(10):
