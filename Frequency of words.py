@@ -3,6 +3,8 @@
 
 # As of now you can print the 10 most frequent words from it.
 
+# Here we are using some import fuctions also for better and easy access.
+
 import sys/*-q
 import string
 import os.path
