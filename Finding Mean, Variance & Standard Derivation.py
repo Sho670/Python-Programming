@@ -43,3 +43,6 @@ print("Variance is:",variance)
 
 # And this is the Standard Derivation of the elements of the numbers.
 print("Standard Derivation is :", "%.2f"%stdDev)
+
+
+# By the use of formulae above we can easily be able to display the values of the given components.
