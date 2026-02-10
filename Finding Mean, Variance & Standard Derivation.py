@@ -8,16 +8,24 @@ from math import sqrt
 
 console = []
 
-num= int(input("Enter the number of elements in the list:"))
+num = int(input("Enter the number of elements in the list:"))
 
 for i in range(num):
   element = int(input("Enter the element:"))
   console.append(element)
+  
 print("The length of list is",len(console))
 
 print("Listing the Contents:", console)
 
 count = 0
+
+for elem in console:
+  count += elem
+
+mean = count/num
+
+total = 0
 for elem in console:
   count += (elem-mean) * (elem-mean)
 
