@@ -20,6 +20,8 @@ print("Listing the Contents:", console)
 
 count = 0
 
+
+# From here starts the actual formulae of the Mean, Variance and Standard Derivation.
 for elem in console:
   count += elem
 
