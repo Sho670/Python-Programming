@@ -25,8 +25,11 @@ variance = count/num
 
 std = sqrt(variance)
 
+# This provides the mean of the numbers.
 print("Mean is:",mean)
 
+# This provides the variance of the numbers elements.
 print("Variance is:",variance)
 
+# And this is the Standard Derivation of the elements of the numbers.
 print("Standard Derivation is :", "%.2f"%stdDev)
