@@ -16,4 +16,8 @@ currentDirectory = pathlib.Path(directory)
 with zipfile.ZipFile("myZip.zip", node = "w") as archive:
   for file_path in currentDirectory.rglob("*"):
     archive.write(file_path,arcname= file_path.relative_to(currentDirectory))
+  if os.path.isfile("myZip.zip"):
+    print("Archive","myZip.zip"," file created successfully")
+  else:
+    print("Error in creating zip archive")
     
