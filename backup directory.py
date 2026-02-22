@@ -12,3 +12,8 @@ if not os.path.isdir (directory):
   sys.exit(0)
 
 
+currentDirectory = pathlib.Path(directory)
+with zipfile.ZipFile("myZip.zip", node = "w") as archive:
+  for file_path in currentDirectory.rglob("*"):
+    archive.write(file_path,arcname= file_path.relative_to(currentDirectory))
+    
