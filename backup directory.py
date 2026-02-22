@@ -1,6 +1,7 @@
-# The following program aims to backing up a given Folder in which the folder should be working and present in a current working directorty.
+# The following program aims to backing up a given Folder in which the folder should be working and present in a current working directory.
 
 # The code defines the backing of that Folder into a ZIP File by using relevent modules and methods.
+
 import os
 import sys
 import pathlib
