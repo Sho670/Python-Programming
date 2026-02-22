@@ -6,7 +6,7 @@
 
 # The subfolders and the files are also has to be saved the Local Drive in the computer.
 
-
+# The folder is also meant to be saved in the same place as Python Installer is being stored.
 import os
 import sys
 import pathlib
