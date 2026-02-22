@@ -2,6 +2,11 @@
 
 # The code defines the backing of that Folder into a ZIP File by using relevent modules and methods.
 
+# The folder has to be created in the local folder. And also, the name of the folder should be the same used for the program used in the current code.
+
+# The subfolders and the files are also has to be saved the Local Drive in the computer.
+
+
 import os
 import sys
 import pathlib
