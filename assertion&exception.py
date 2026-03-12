@@ -13,3 +13,9 @@ value2= int(input("Enter the value of b:"))
 value3= DivExp(value1, value2)
 
 print(value1, "/", value2, "=", value3)
+
+
+# The Output for the code will be:
+# Enter the value of a: 6
+# Enter the value of b: 0
+# Value of b cannot be zero
