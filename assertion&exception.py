@@ -1,3 +1,6 @@
+# This program uses a function called DivExp which takes two parameters a and b and also returns value of c.
+#
+
 import sys
 def DivExp (a,b):
   assert a>0, "a should be greater than 0"
