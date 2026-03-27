@@ -19,9 +19,9 @@ class Cow(Animal):
     return "Mowww"
 
 
-animals=[Cat(), Dog(), Cow(), Animal()]
+Animals=[Cat(), Dog(), Cow(), Animal()]
 
-for Animal in animals:
+for Animal in Animals:
   print(Animal.sound())
 
 
