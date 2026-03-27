@@ -12,3 +12,8 @@ class Cat(Animal):
 class Dog(Animal):
   def sound(show):
     return "Bark"
+
+
+animals=[Cat(), Dog(), Animal()]
+for Animal in animals:
+  print(Animal.sound())
