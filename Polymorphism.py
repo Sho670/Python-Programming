@@ -5,6 +5,7 @@
 class Animal:
   def sound(show):
     return "Sound"
+    
 class Cat(Animal):
   def sound(show):
     return "Meow"
@@ -13,8 +14,12 @@ class Dog(Animal):
   def sound(show):
     return "Bark"
 
+class Cow(Animal):
+  def sound(show):
+    return "Mowww"
 
-animals=[Cat(), Dog(), Animal()]
+
+animals=[Cat(), Dog(), Cow(), Animal()]
 for Animal in animals:
   print(Animal.sound())
 
