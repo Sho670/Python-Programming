@@ -20,6 +20,7 @@ class Cow(Animal):
 
 
 animals=[Cat(), Dog(), Cow(), Animal()]
+
 for Animal in animals:
   print(Animal.sound())
 
@@ -29,6 +30,7 @@ for Animal in animals:
 class Pencil:
   def use(show):
     return "Writing"
+    
 class Eraser:
   def use(show):
     return "Erasing"
@@ -37,5 +39,6 @@ def tool(touse):
   print(touse.use())
 
 tool(Pencil())
+
 tool(Eraser())
 
