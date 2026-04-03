@@ -38,3 +38,14 @@ if os.path.isfile("sorted.txt"):
   print("\n File Containing sorted content sorted.txt created successfully !!!")
   print("Sorted.txt contains", len(lineList), "lines")
   print("Contents of sorted.txt")
+  print("====================================================================")
+  
+# The above lines is only for putting a division between the printed statements and the following up Text File !!!
+
+readFile = open("sorted.txt","r")
+
+for line in readFile:
+  print(line, end= "")
+
+
+# 
