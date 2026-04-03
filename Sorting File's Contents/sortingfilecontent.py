@@ -21,3 +21,10 @@ for line in myList:
 lineList.sort()
 
 # Writing sorted contents to new file sorted.txt
+# From this point, all the sorted content from the initial Text File which the file attached with the code, will be now stored in the sorted file...
+
+outfile = open("sorted.txt", "w")
+
+for line in lineList:
+  outfile.write(line + "\n")
+  
