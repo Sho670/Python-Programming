@@ -2,3 +2,19 @@
 
 # The sorting function we are going to use is sort() function !!
 
+import os.path
+
+import sys
+
+filename=input("Enter the filename given above:") #SAMPLE TEXT FILE ATTACHED
+
+if not os.path.isfile(filename):
+  print("File",filename,"doesnot exists")
+  sys.exit(0)
+
+infile=open(filename, "r")
+myList=infile.readlines()
+
+lineList=[]
+for line in myList:
+  lineList . append(line.strip())
