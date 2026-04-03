@@ -52,5 +52,7 @@ for line in readFile:
 
 
 # EXPECTED OUTPUT:
-#Enter the filename given above: SortingFileContents.txt
-#
+
+# Enter the filename given above: TEXTFILE.txt
+# File Containing sorted content sorted.txt created successfully !!!
+# sorted.txt contains 
