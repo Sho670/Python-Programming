@@ -1,3 +1,0 @@
-# This is a program which includes sorting of a given text file using various sorting methods.
-
-# For this program we are going to consider some of the methods like: sort(), append()...
