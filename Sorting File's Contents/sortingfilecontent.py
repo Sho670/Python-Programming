@@ -33,3 +33,8 @@ infile.close()
 
 outfile.close()
 # Closing the output file
+
+if os.path.isfile("sorted.txt"):
+  print("\n File Containing sorted content sorted.txt created successfully !!!")
+  print("Sorted.txt contains", len(lineList), "lines")
+  print("Contents of sorted.txt")
