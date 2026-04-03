@@ -27,4 +27,9 @@ outfile = open("sorted.txt", "w")
 
 for line in lineList:
   outfile.write(line + "\n")
-  
+
+infile.close()
+# Closing the input file
+
+outfile.close()
+# Closing the output file
