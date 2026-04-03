@@ -55,4 +55,9 @@ for line in readFile:
 
 # Enter the filename given above: TEXTFILE.txt
 # File Containing sorted content sorted.txt created successfully !!!
-# sorted.txt contains 
+# Sorted.txt contains 10 lines
+# Contents of sorted.txt
+
+#=========================================================================
+
+# THE SORTED TEXT FILE # 
