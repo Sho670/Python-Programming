@@ -18,3 +18,6 @@ myList=infile.readlines()
 lineList=[]
 for line in myList:
   lineList . append(line.strip())
+lineList.sort()
+
+# Writing sorted contents to new file sorted.txt
