@@ -35,4 +35,13 @@ Python is an interpreted, high-level, general-purpose programming language. Crea
 
 🎮 Game Development: Rapid prototyping and logic scripting.
 
-🛠️ Summary Table
+
+📐 Structural Syntax Rules
+
+🔄 The Python Version Evolution
+
+Python 2.x: Legacy version (officially sunset on Jan 1, 2020).
+
+Python 3.x: The present and future. It introduced better Unicode support, improved integer division, and more consistent syntax.
+
+Python 3.11+: Significant performance leaps (30-50% faster than previous 3.x versions).
