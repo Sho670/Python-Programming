@@ -1,10 +1,10 @@
 # Python-Programming
-## <p style="font-size: 34px;">Here includes all kinds of python programming problems including basic problems which are easy to learn and understand.</p>
+## <p style="font-size: 30px;">Here includes all kinds of python programming problems including basic problems which are easy to learn and understand.</p>
 
 # <p align="center" style="font-size: 55px;">🐍 <b>The Python Universe</b></p>
 
 <p align="center">
-  <b>The World's Most Popular Language</b><br>
+  <b>The World's Most Popular Programming Language</b><br>
   <i>Readability. Versatility. Power.</i>
 </p>
 
@@ -66,7 +66,7 @@ The "Glue Language." Engineers use it to automate server deployments, cloud mana
 ---
 ## <p style="font-size: 35px;">📐 Structural Syntax Rules</p>
 
-🔄 The Python Version Evolution
+🔄 The Python Version Evolution 🚀🚀
 
 Python 2.x: Legacy version (officially sunset on Jan 1, 2020).
 
