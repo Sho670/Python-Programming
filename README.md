@@ -21,13 +21,6 @@ Python is an interpreted, high-level, general-purpose programming language. Crea
 
 
 
-📂 Program Structure
-
-import math
-class Circle:
-def __init__(self,circle):
-      print("Content of Circle:\n")
-
 
 
 🚀 Real-World Applications
