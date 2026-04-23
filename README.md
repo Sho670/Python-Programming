@@ -4,7 +4,7 @@
 # <p align="center" style="font-size: 55px;">🐍 <b>The Python Universe</b></p>
 
 <p align="center">
-  <b>An All-in-One Guide to the World's Most Popular Language</b><br>
+  <b>The World's Most Popular Language</b><br>
   <i>Readability. Versatility. Power.</i>
 </p>
 
