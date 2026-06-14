@@ -18,6 +18,9 @@ def bubble(arr):
 
         swap=True
 
+
+# If the swapping not possible after a , then break the loop
+    
     if  not swap:
       break
 
@@ -28,6 +31,8 @@ return arr
 
 numbers=input("Enter bunch of numbers:").split()
 
+
+# Prints the original list provided from the user
 print("Original  List:",numbers)
 
 sortedlist=bubble(numbers)
