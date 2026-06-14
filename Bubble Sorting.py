@@ -22,3 +22,10 @@ def bubble(arr):
 return arr
 
 
+numbers=input("Enter bunch of numbers:").split()
+
+print("Original  List:",numbers)
+
+sortedlist=bubble(numbers)
+
+print("Sorted list::", sortedlist)
