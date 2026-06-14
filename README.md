@@ -18,7 +18,9 @@
 ## <p style="font-size: 35px;">✨ Exceptional Features</p>
 
 * **🌈 Minimalist Syntax:** Say goodbye to semicolon `;` headaches and curly brace `{}` confusion.
+  
 * **🔋 Batteries Included:** The standard library is massive. Whether you need to parse JSON, send emails, or zip files, Python has a built-in module for it.
+  
 * **🔄 Dynamic Typing:** You don't need to tell Python that a number is an integer; it’s smart enough to figure it out itself.
 
 ---
@@ -46,9 +48,10 @@
 
 ---
 
-## <p style="font-size: 35px;">🚀 Limitless Applications</p>
+## <p style="font-size: 35px;">🚀 Applications</p>
 
 ### 🤖 **Artificial Intelligence & ML**
+
 The undisputed king of AI. Without Python, libraries like **TensorFlow** and **PyTorch** wouldn't be the industry standards they are today.
 
 ### 🌐 **Web Development**
@@ -67,7 +70,7 @@ The "Glue Language." Engineers use it to automate server deployments, cloud mana
 
 🔄 The Python Version Evolution 🚀🚀
 
-Python 2.x: Legacy version (officially sunset on Jan 1, 2020).
+Python 2.x: Primary version (officially sunset on Jan 1, 2020).
 
 Python 3.x: The present and future. It introduced better Unicode support, improved integer division, and more consistent syntax.
 
