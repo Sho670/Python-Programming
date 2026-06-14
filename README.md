@@ -4,7 +4,7 @@
 # <p align="center" style="font-size: 55px;">🐍 <b>The Python Universe</b></p>
 
 <p align="center">
-  <b>The World's Most Popular Programming Language</b><br>
+  <b>One of the Most Popular Programming Language</b><br>
   <i>Readability. Versatility. Power.</i>
 </p>
 
