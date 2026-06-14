@@ -9,7 +9,7 @@ def bubble(arr):
 
     swap=False
     
-#Conditions Starts
+#Conditions of swapping starts from here
 
     
     for j in range(0,n-i-1):
