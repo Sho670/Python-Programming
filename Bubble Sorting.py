@@ -33,8 +33,10 @@ numbers=input("Enter bunch of numbers:").split()
 
 
 # Prints the original list provided from the user
+
 print("Original  List:",numbers)
 
 sortedlist=bubble(numbers)
 
+# Prints the sorted list after the sorting process completes 
 print("Sorted list::", sortedlist)
