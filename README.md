@@ -110,4 +110,16 @@ def calculate_growth(initial, rate):
 print(calculate_growth(100, 0.05))
 
 
+```
 
+---
+
+⭐ Star this repository
+
+🍴 Fork it
+
+📢 Share it
+
+📬 Contact Feel free to connect for collaboration or feedback!
+
+🔥 “Data is the new oil, but insights are the real fuel.”
