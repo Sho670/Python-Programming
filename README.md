@@ -1,5 +1,5 @@
 # Python-Programming
-## <p style="font-size: 30px;">Here includes all kinds of python programming problems including basic problems which are easy to learn and understand. Presented by: </p>
+
 
 # <p align="center" style="font-size: 55px;">🐍 <b>The Python Universe</b></p>
 
@@ -20,7 +20,6 @@
 * **🌈 Minimalist Syntax:** Say goodbye to semicolon `;` headaches and curly brace `{}` confusion.
 * **🔋 Batteries Included:** The standard library is massive. Whether you need to parse JSON, send emails, or zip files, Python has a built-in module for it.
 * **🔄 Dynamic Typing:** You don't need to tell Python that a number is an integer; it’s smart enough to figure it out itself.
-* **🤝 Massive Integration:** It plays well with others. You can easily wrap C, C++, or Java code within Python for high-performance needs.
 
 ---
 
