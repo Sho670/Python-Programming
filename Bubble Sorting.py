@@ -7,10 +7,12 @@ def bubble(arr):
 
   for i in range(num):
 
+
+  
+#Conditions of swapping starts from here
+    
     swap=False
     
-#Conditions of swapping starts from here
-
     
     for j in range(0,n-i-1):
       if arr[j]>arr[j+1]:
@@ -22,8 +24,8 @@ def bubble(arr):
 # If the swapping not possible after a , then break the loop
     
     if  not swap:
+      
       break
-
 
 return arr
 
