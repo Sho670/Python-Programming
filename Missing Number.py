@@ -9,11 +9,10 @@ class Solution:
 
 # Time Complexity: O(n^2)
 
-#Another method. Optimized
+# Another method. much more Optimized
 
 l=len(nums)
 nsum= l*(l+1)//2
-
 s=sum(nums)
 
 return nsum-s
