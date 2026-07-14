@@ -1,4 +1,4 @@
-# Leetcode Question = Single Number
+# Leetcode Question = Single Number (No. 136)
 
 class Solution:
 
@@ -12,3 +12,10 @@ for i in a:
 for i in d:
   print(i,"-",d[i])
 
+
+#Another method of doing it
+
+sum=0
+for i in a:
+  sum =sum ^ i
+return sum
