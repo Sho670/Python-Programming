@@ -18,4 +18,5 @@ for i in d:
     print(i,"-",d[i])
 
 
-# Keeping the same code as leetcode question 132
+# Keeping the same code as leetcode question 132. 
+# Only changes is that, after the for i condtion for d, we are using a condition of d[i] being greater than the len of a with division of 2
