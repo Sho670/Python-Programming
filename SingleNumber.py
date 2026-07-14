@@ -1,8 +1,11 @@
 # Leetcode Question = Single Number (No. 136)
 
 class Solution:
+  
+  def(self, arr):
 
 a=[1,1,2,2,3,3,1]
+
 d={}
 for i in a:
   if l in d:
