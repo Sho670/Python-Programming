@@ -10,5 +10,14 @@ m= max(nums)
 for i in nums:
   h = i*ah
   l = i*al
+  ah = max(h,l,i)
+  al = min(h,l,i)
+
+
+  if m < ah:
+    m = ah
+
+
+  return m
 
   
