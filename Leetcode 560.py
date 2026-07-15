@@ -10,5 +10,11 @@ def subarraysumequal(self, list[int]):
     sum +=i
     left= sum-k
 
-    if
+    if sum in d:
+      d[sum] += 1
+    else :
+      d[sum] = 1
+
+
+  return c
   
