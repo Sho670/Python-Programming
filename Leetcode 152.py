@@ -1,3 +1,7 @@
+# Leetcode Question 152 (Maximum Product SubArray)
+
+def maximumproductsubarray(self, list -> int):
+
 h=1
 l=1
 ah=1
