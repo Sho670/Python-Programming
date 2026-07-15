@@ -4,8 +4,8 @@ def maximumproductsubarray(self, list -> int):
 
   def subarray():
 
-    h=1
-    l=1
+    h=1    # h = high
+    l=1    # l = low
     ah=1
     al=1
 
