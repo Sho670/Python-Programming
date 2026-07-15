@@ -6,8 +6,8 @@ def maximumproductsubarray(self, list -> int):
 
     h=1    # h = high
     l=1    # l = low
-    ah=1
-    al=1
+    ah=1   # ah = all time high
+    al=1   # al =  all time low
 
 m= max(nums)
 
