@@ -18,3 +18,5 @@ def subarraysumequal(self, list[int]):
 
   return c
   
+
+# This solution of the most optimized for the leetcode question.
