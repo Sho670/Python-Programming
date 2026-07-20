@@ -1,7 +1,9 @@
 # Leetcode 344 (Reversing String)
 
 def reversestring(self,num):
+  
   def f(left,right):
+    
     if (left>=right):
       
       return
