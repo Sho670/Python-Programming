@@ -2,6 +2,10 @@
 
 # This is just a concept of two pointer way, where the left and right are taken in the whole array, and then the numbers are exchanged with their positions.
 
+# After the all elements are exchanged, the string gets reversed, and prints as the output.
+
+
+
 def reversestring(self,num):
   
   def f(left,right):
