@@ -4,7 +4,8 @@
 
 # After the all elements are exchanged, the string gets reversed, and prints as the output.
 
-
+#Example: ['h','e','l','l','o']
+# Output: ['o','l','l','e','h']
 
 def reversestring(self,num):
   
