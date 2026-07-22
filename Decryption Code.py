@@ -8,6 +8,7 @@ s= int(input("Enter shift:"))
 for ch in encrypted:
 
   if ch.isalpha():
+    
     decrypted += chr(ord(ch)-s)
 
   else:
@@ -15,3 +16,9 @@ for ch in encrypted:
 
 
 print("Decrypted:", decrypted)
+
+#Excepted output:
+
+#Input: Hello
+#Output: khnoor
+
