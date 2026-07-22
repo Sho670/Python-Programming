@@ -12,3 +12,6 @@ for ch in encrypted:
 
   else:
     decrypted += ch
+
+
+print("Decrypted:", decrypted)
