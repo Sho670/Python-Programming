@@ -17,8 +17,8 @@ for ch in encrypted:
 
 print("Decrypted:", decrypted)
 
-#Excepted output:
+#Excepted output for the code:
 
-#Input: Hello
-#Output: khnoor
+#Input: khnoor (can be a random input)
 
+#Output: Hello
