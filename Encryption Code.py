@@ -17,3 +17,9 @@ for ch in t:
 
 print("Encrypted :", encrypted)
 
+#Expected Output:
+
+#Input: Hello
+
+#Output: knoor
+
