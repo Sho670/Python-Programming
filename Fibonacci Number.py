@@ -1,5 +1,7 @@
 # Leetcode 509 (Fibonacci Number)
 
+# The Fibonacci Series works with the approach of adding the present number with the previous number and continuoes forever !!
+
 n=1
 def fib(n):
 
