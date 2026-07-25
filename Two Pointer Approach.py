@@ -18,3 +18,10 @@ for i in range(arrlen):
     maxprofit=profit
 
 print("Maximum Profit: {maxprofit}")
+
+
+# Explanation Steps:
+
+# Step 1: First find first pointer
+# Step 2: Second find second pointer
+# Step 3: Finding difference between first and second pointer
