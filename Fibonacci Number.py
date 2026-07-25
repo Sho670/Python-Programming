@@ -1,6 +1,6 @@
 # Leetcode 509 (Fibonacci Number)
 
-n=3
+n=1
 def fib(n):
 
   if n==0:
@@ -10,3 +10,5 @@ def fib(n):
     return 1
 
   return fib(n-1)+fib(n-2)
+
+# Output Expected: 0 1 1 2 3 4 5
