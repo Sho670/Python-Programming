@@ -12,4 +12,9 @@ minvalue=arr[0]
 for i in range(arrlen):
   if arr[i] < minvalue:
     minvalue = arr[i]
-    
+  profit = arr[i]-minvalue
+
+  if profit> maxprofit:
+    maxprofit=profit
+
+print("Maximum Profit: {maxprofit}")
