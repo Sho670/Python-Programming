@@ -15,7 +15,7 @@
 
 ---
 
-## <p style="font-size: 35px;">✨ Exceptional Features</p>
+## <p style="font-size: 35px;">✨ Exceptional Features </p>
 
 * **🌈 Minimalist Syntax:** Say goodbye to semicolon `;` headaches and curly brace `{}` confusion.
   
@@ -25,7 +25,7 @@
 
 ---
 
-## <p style="font-size: 35px;">🏗️ The Core Components</p>
+## <p style="font-size: 35px;">🏗️ The Core Components </p>
 
 <table width="100%">
   <tr>
