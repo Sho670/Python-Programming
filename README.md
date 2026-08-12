@@ -68,7 +68,7 @@ The "Glue Language." Engineers use it to automate server deployments, cloud mana
 ---
 ## <p style="font-size: 35px;">📐 Structural Syntax Rules</p>
 
-🔄 The Python Version Evolution 🚀🚀
+🔄 The Python Version Evolution 🚀
 
 Python 2.x: Primary version (officially sunset on Jan 1, 2020).
 
